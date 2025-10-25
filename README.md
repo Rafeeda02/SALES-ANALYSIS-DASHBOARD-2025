@@ -17,7 +17,7 @@ The goal is to visualize key business insights and identify opportunities for gr
 
 ### 🔹 Dashboard View 3  
 *Sales by subscription,gender and Shipping Methods*  
-![Dashboard View 3](dashboardview3.png)
+![Dashboard View 3](dashboardview3(434).png)
 
 ---
 
