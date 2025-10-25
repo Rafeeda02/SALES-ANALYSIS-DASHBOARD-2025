@@ -33,7 +33,7 @@ The goal is to visualize key business insights and identify opportunities for gr
 ---
 
 ## 💡 Recommendations  
-![Recommendations](dashboardrecommendation.png)
+![Recommendations](dashboardrecommendations.png)
 
 **Suggestions & Insights:**
 - Increase **advertising and marketing** in underperforming regions.  
