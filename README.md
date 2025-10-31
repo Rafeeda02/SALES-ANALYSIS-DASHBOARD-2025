@@ -63,7 +63,7 @@ The goal is to visualize key business insights and identify opportunities for gr
 📍 INDIA 
 📧 rafeedapponline@gmail.com
 🗓️ Project Year: 2025  
-📍 Data Analyst (Beginner) | Passionate about data visualization and storytelling
+📍 Data Analyst | Passionate about data visualization and storytelling
 ---
 
 ## ⭐ Project Highlights
